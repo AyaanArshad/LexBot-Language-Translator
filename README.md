@@ -1,5 +1,5 @@
 # LexBot-Language-Translator
-
+### Artificial Intelligence and Cloud Computing Miniproject
 ## Architecture
 ![image](https://github.com/AyaanArshad/LexBot-Language-Translator/assets/92472791/b346933f-dd2b-45ca-ba60-795573b02c7a)
 
